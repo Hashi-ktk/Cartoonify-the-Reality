@@ -15,7 +15,7 @@ A python application that will transform an image into its cartoon using OpenCV
 
 
 **Filters:** 
-* Bialateral Filter
+* Bilateral Filter
 * Contours
 * erode
 * Canny(edge detection)
